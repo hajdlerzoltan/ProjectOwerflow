@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ProjectOwerflow",
+			"Path": "C:\\Users\\hajdl\\Documents\\Unreal Projects\\ProjectOwerflow\\Source\\ProjectOwerflow.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ProjectOwerflowEditor",
+			"Path": "C:\\Users\\hajdl\\Documents\\Unreal Projects\\ProjectOwerflow\\Source\\ProjectOwerflowEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\hajdl\\documents\\unreal projects\\projectowerflow\\source\\projectowerflow\\projectowerflow.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\hajdl\\documents\\unreal projects\\projectowerflow\\intermediate\\build\\win64\\projectowerfloweditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\hajdl\\documents\\unreal projects\\projectowerflow\\intermediate\\build\\win64\\unrealeditor\\development\\projectowerflow\\definitions.projectowerflow.h",
+            "c:\\users\\hajdl\\documents\\unreal projects\\projectowerflow\\source\\projectowerflow\\projectowerflow.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

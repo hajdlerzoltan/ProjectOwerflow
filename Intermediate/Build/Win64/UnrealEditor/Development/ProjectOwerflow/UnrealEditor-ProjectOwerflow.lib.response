@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ProjectOwerflow.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\hajdl\Documents\Unreal Projects\ProjectOwerflow\Intermediate\Build\Win64\ProjectOwerflowEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\hajdl\Documents\Unreal Projects\ProjectOwerflow\Intermediate\Build\Win64\UnrealEditor\Development\ProjectOwerflow\ProjectOwerflow.cpp.obj"
+"C:\Users\hajdl\Documents\Unreal Projects\ProjectOwerflow\Intermediate\Build\Win64\UnrealEditor\Development\ProjectOwerflow\ProjectOwerflowGameModeBase.cpp.obj"
+"C:\Users\hajdl\Documents\Unreal Projects\ProjectOwerflow\Intermediate\Build\Win64\UnrealEditor\Development\ProjectOwerflow\ProjectOwerflow.init.gen.cpp.obj"
+"C:\Users\hajdl\Documents\Unreal Projects\ProjectOwerflow\Intermediate\Build\Win64\UnrealEditor\Development\ProjectOwerflow\ProjectOwerflowGameModeBase.gen.cpp.obj"
+"C:\Users\hajdl\Documents\Unreal Projects\ProjectOwerflow\Intermediate\Build\Win64\UnrealEditor\Development\ProjectOwerflow\Default.rc2.res"
+/OUT:"C:\Users\hajdl\Documents\Unreal Projects\ProjectOwerflow\Intermediate\Build\Win64\UnrealEditor\Development\ProjectOwerflow\UnrealEditor-ProjectOwerflow.lib"
